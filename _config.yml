@@ -3,7 +3,6 @@
 # Site settings
 title: ALEX LIBERZON
 description: "Alex Liberzon website"
-analytics:
 baseurl: "/solid-jekyll" #important: start with /
 url: "http://alexlib.github.io/solid-jekyll"
 
